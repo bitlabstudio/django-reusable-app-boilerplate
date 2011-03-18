@@ -1,0 +1,16 @@
+[
+  {
+    "pk": 1,
+    "model": "appname.example",
+    "fields": {
+      "text": "Lorem ipsum..."
+    }
+  },
+  {
+    "pk": 2,
+    "model": "appname.example",
+    "fields": {
+      "text": "Foo bar..."
+    }
+  }
+]
