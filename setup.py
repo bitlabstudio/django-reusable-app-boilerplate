@@ -1,6 +1,6 @@
 import os
 from setuptools import setup, find_packages
-import appname as project_module
+import appname
 
 
 def read(fname):
@@ -12,7 +12,7 @@ def read(fname):
 
 setup(
     name="appname",
-    version=project_module.__version__,
+    version=appname.__version__,
     description=read('DESCRIPTION'),
     long_description=read('README.rst'),
     keywords='the_keywords',
@@ -21,5 +21,5 @@ setup(
     author_email='the_email',
     url="the_url",
     include_package_data=True,
-    test_suite='project_module.tests.runtests.runtests',
+    test_suite='appname.tests.runtests.runtests',
 )

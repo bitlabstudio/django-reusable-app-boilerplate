@@ -21,4 +21,3 @@ def index(request, template_name='appname/example_list.html'):
 	paginate_by=10,
  	page=page,        
     )
-

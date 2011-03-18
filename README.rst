@@ -1,4 +1,4 @@
-TODO: Add project name
-======================
+TODO: Add app name
+==================
 
 TODO: Add project readme.
