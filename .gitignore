@@ -1,2 +1,5 @@
 *.pyc
+build/
+dist/
+myapp.egg-info/
 
