@@ -13,5 +13,4 @@ How to use
   git clone git://github.com/bitmazk/django-reusable-app-boilerplate yourappname
   cd yourappname
   ./bin/init.sh
-  cd yourappname/tests/
-  ./runtests.py
+  ./yourappname/tests/runtests.py
