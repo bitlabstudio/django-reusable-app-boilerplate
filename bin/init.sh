@@ -17,7 +17,7 @@ echo "Replacing strings in files..."
 sed -i "s/the_keywords/$KEYWORDS/g" setup.py
 sed -i "s/the_author/$AUTHOR/g" setup.py
 sed -i "s/the_email/$AUTHOREMAIL/g" setup.py
-sed -i "s/the_url/$URL/g" setup.py
+sed -i "s@the_url@$URL@g" setup.py
 find . -type f -exec sed -i "s/appname/$APPNAME/g" {} +
 
 echo "Renaming folders..."
