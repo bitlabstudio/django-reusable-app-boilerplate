@@ -6,7 +6,7 @@ If you work with Django every day you will want to build reusable apps. This rep
 **Features:**
 
 * It is ready for test driven development (TDD). Add your first test to tests.py before you implement anything!
-* It ready to be submitted to PyPi
+* It is ready to be distributed via PyPi
 
 We are still far from being experts in producing reusable apps. This repository is more or less what we have learned from some inspiring blog posts and from looking at other awesome repositories out there. The whole process of submitting an app based on this boilerplate to PyPi has never been tested (but will be tested soon). Suggestions for enhancements are much appreciated!
 
