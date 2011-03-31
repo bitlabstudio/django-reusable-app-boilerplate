@@ -1,5 +1,5 @@
 *.pyc
 build/
 dist/
-myapp.egg-info/
+appname.egg-info/
 
