@@ -10,6 +10,11 @@ If you work with Django every day you will want to build reusable apps. This rep
 
 We are still far from being experts in producing reusable apps. This repository is more or less what we have learned from some inspiring blog posts and from looking at other awesome repositories out there. The whole process of submitting an app based on this boilerplate to PyPi has never been tested (but will be tested soon). Suggestions for enhancements are much appreciated!
 
+You can find another promising try on the same issue here: 
+
+* `django-packagemaker <https://github.com/ptone/django-packagemaker>`_
+
+
 How to use
 ==========
 
