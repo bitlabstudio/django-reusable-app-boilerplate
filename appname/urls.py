@@ -1,3 +1,5 @@
+"""URLs for appname application."""
+
 from django.conf.urls.defaults import *
 
 
